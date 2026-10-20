@@ -1,5 +1,5 @@
 <?php
-// Jména členů skupiny: Jméno Příjmení, Jméno Příjmení (DOPLŇTE)
+// Jména členů skupiny: Ondřej Mlčák, Samuel Žárský, Jakub Dekař
 
 function get_post_value($key, $default = '') {
     return isset($_POST[$key]) ? trim($_POST[$key]) : $default;
